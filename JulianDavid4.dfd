@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+'Hola sofia buenos días, por favor ingrese el valor de cada uno de su productos'
+4
+1
+50
+'Por favor ingrese el valor de su primer producto'
+5
+1
+2
+p1
+4
+1
+51
+'Por favor ingrese el valor de su segundo producto'
+5
+1
+2
+p2
+4
+1
+50
+'Por favor ingrese el valor de su tercer producto'
+5
+1
+2
+p3
+6
+3
+2
+p4
+8
+p1+p2+p3
+1
+D
+6
+p4*0.2
+1
+T
+4
+p4-D
+4
+1
+67
+'se ha aplica su descuento del 20%, por lo que no debera pagar ', D
+4
+1
+41
+'En su lugar debe pagar un total de ' , T
+1

@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Por favor ingrese el valor de su compra'
+5
+1
+1
+V
+6
+2
+1
+I
+6
+V*0.19
+2
+V1
+3
+I+V
+4
+1
+28
+'debe pagar un total de', V1
+1

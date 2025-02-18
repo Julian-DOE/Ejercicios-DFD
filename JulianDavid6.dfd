@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+75
+'Por favor ingrese la nota que usted obtuvo del parcial en el primer corte'
+5
+1
+1
+P
+4
+1
+55
+'Por favor ingrese la nota que usted obtuvo en el quiz'
+5
+1
+1
+Q
+4
+1
+55
+'Por favor ingrese la nota que usted saco en el taller'
+5
+1
+1
+T
+4
+1
+49
+'Por favor ingrese la nota que saco en el github'
+5
+1
+1
+G
+6
+3
+1
+P
+6
+P*0.55
+1
+Q
+6
+Q*0.15
+1
+T
+6
+T*0.15
+6
+2
+1
+G
+6
+G*0.15
+1
+N
+7
+P+Q+T+G
+4
+1
+36
+'La nota de su primer corte es ', N 
+1
