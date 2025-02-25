@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Buenos diás, por favor digite su nombre'
+5
+1
+1
+N
+4
+1
+41
+'Por favor escriba el valor de su compra'
+5
+1
+1
+V
+4
+1
+65
+'Por favor ingrese el porcentaje de descuento que quiere aplicar'
+5
+1
+1
+D
+6
+2
+1
+T
+7
+V*D/100
+2
+T1
+3
+V-T
+4
+1
+57
+'Hola señor@ ', N , ' usted debe pagar ' , T1 , ' pesos' 
+1

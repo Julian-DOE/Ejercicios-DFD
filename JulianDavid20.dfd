@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'por favor ingrese su nombre y su edad'
+5
+1
+5
+N1,E1
+4
+1
+52
+'por favor ingrese el nombre y la edad de su pareja'
+5
+1
+5
+N2,E2
+7
+0
+1
+5
+E1>E2
+4
+1
+76
+N2 , ' es mayor que ', N1, ' ;',N2 ,' tiene ' ,E2, ' y ', N1, ' tiene ' , E1
+13
+4
+1
+80
+N1 , ' es mayor que ' , N2 , ';', N1, ' tiene ' , E1, ' y ' , N2, ' tiene ' , E2
+13
+1
